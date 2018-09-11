@@ -1,0 +1,33 @@
+#sec-cooling {
+	background-color: #F3F3F3;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+#sec-frame{
+	background-color: #F3F3F3;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+footer {
+ background-color: #F3F3F3;
+	text-align: center;
+	color: #2F2D2D;
+}
+
+.btn-trans {
+	border: thick;
+	border-color: #0000;
+	color: transparent;
+}
+
+#sec-qled {
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+#sec-fit {
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
